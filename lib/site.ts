@@ -6,7 +6,7 @@ export const siteConfig = {
     "A Christ-centered ministry devoted to biblical teaching, gospel clarity, and the unveiling of God’s eternal purpose in Christ through Scripture.",
   url: "https://ezra-self.vercel.app",
   ogImage: "/og-image.jpg",
-  email: "hello@theezraproject.org",
+  email: "oladayotemitope2021@gmail.com",
   nav: [
     { name: "Home", href: "/" },
     { name: "About", href: "/about" },
