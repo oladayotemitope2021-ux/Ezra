@@ -46,7 +46,7 @@ export default function ContactPage() {
             <h2 className="mb-4 text-2xl font-semibold text-white">
               Ministry correspondence
             </h2>
-            <p className="section-text">hello@theezraproject.org</p>
+            <p className="section-text">oladayotemitope2021@gmail.com</p>
           </div>
 
           <div className="glass-card lift-card rounded-[1.8rem] p-8">
@@ -105,7 +105,7 @@ export default function ContactPage() {
                 <p className="mb-1 text-sm uppercase tracking-[0.25em] text-[#f97316]">
                   Email
                 </p>
-                <p>hello@theezraproject.org</p>
+                <p>oladayotemitope2021@gmail.com</p>
               </div>
 
               <div>

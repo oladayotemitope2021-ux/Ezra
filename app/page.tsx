@@ -275,7 +275,7 @@ export default function HomePage() {
               </p>
 
               <div className="flex flex-col gap-3 text-[#dbe4f0]">
-                <p>hello@theezraproject.org</p>
+                <p>oladayotemitope2021@gmail.com</p>
                 <p>Teaching Invitations</p>
                 <p>Partnership Enquiries</p>
                 <p>Ministry Correspondence</p>
