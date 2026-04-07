@@ -133,7 +133,6 @@ export default function AboutPage() {
         </div>
       </section>
 
-import CallToActionBlock from "@/components/CallToActionBlock"; 
       <section className="section-padding pt-0">
         <div className="container-width">
           <CallToActionBlock
